@@ -1,4 +1,10 @@
-### URL: https://tender-shockley-b302c2.netlify.app/
+### URLs:
+
+* https://cuddly-palm-tree.azurewebsites.net/ (Incorrect name tho, should have been 
+legendary-giggle)
+* https://tender-shockley-b302c2.netlify.app/
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
